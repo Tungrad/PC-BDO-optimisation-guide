@@ -1,1 +1,1 @@
-                                               # PC OPTTIMISATION GUIDE
+<center> # PC OPTTIMISATION GUIDE </center>
