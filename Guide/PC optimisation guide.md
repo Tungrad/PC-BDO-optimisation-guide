@@ -2,4 +2,4 @@
 <h1 align="center">PC OPTIMISATION GUIDE</h1>
 
 <h4 align="center"> Windows setup or debloat if you not reinstalling </h4>
-Here is a basic video you can [general](https://youtu.be/VapEEf4k7Eo?si=WFdYwriim6xHC0LU) 
+Here is a basic video you can [Follow](https://www.youtube.com/watch?v=lrq3ph3xi50)
