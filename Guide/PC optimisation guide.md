@@ -1,1 +1,1 @@
- <p # align="center"  >  PC OPTTIMISATION GUIDE </p>
+<h1 align="center">PC OPTIMISATION GUIDE</h1>
