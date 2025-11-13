@@ -1,1 +1,1 @@
-<center> # PC OPTTIMISATION GUIDE </center>
+<p align="center"> # PC OPTTIMISATION GUIDE </p>
